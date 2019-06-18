@@ -1,54 +1,54 @@
 const goats = [
   {
-    id:'goat1',
-    name:'billy',
-    disposition: 'rude', 
-    imageUrl:'https://upload.wikimedia.org/wikipedia/commons/b/b2/Hausziege_04.jpg',
+    id: 'goat1',
+    name: 'Billy',
+    disposition: 'rude',
+    imageUrl: 'https://cdn.pixabay.com/photo/2012/06/19/15/06/goat-50290_1280.jpg',
     fullness: 67,
     favPose: 'downward facing dog',
     isFainting: true,
-    color:'brown' 
+    color: 'black',
   },
   {
-    id:'goat2',
-    name:'Wayne',
-    disposition: 'rude', 
-    imageUrl:'https://images2.minutemediacdn.com/image/upload/c_crop,h_843,w_1500,x_0,y_0/f_auto,q_auto,w_1100/v1555172619/shape/mentalfloss/iStock-177369626_0.jpg',
-    fullness: 47,
-    favPose: 'Bhujangasana',
+    id: 'goat2',
+    name: 'Ralph',
+    disposition: 'passive',
+    imageUrl: 'https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1554932989/shape/mentalfloss/istock-482891144-goat-eyes.jpg',
+    fullness: 32,
+    favPose: 'molting spider',
+    isFainting: false,
+    color: 'blue',
+  },
+  {
+    id: 'goat3',
+    name: 'Monica',
+    disposition: 'sassy',
+    imageUrl: 'https://zoosauvage.org/app/uploads/2017/11/chevre-domestique-1.jpg',
+    fullness: 87,
+    favPose: 'twisted villain',
     isFainting: true,
-    color:'white' 
+    color: 'brown',
   },
   {
-    id:'goat3',
-    name:'Tom',
-    disposition: 'rude', 
-    imageUrl:'https://nationalzoo.si.edu/sites/default/files/animals/domestic-goat.jpg',
-    fullness: '23',
-    favPose: 'Kapotasana',
-    isFainting: false,
-    color:'white' 
+    id: 'goat4',
+    name: 'Damion',
+    disposition: 'eccentric',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUoMaI0gCIRoYcUSh4BfVKcBF813uN7PYSVOc3h5F88PwhAlua',
+    fullness: 23,
+    favPose: 'upside-down tomato',
+    isFainting: true,
+    color: 'brown',
   },
   {
-    id:'goat4',
-    name:'Jim',
-    disposition: 'rude', 
-    imageUrl:'https://www.telegraph.co.uk/content/dam/pets/2016/08/11/103675361_jack-the-goat-PETS_trans_NvBQzQNjv4BqZgEkZX3M936N5BQK4Va8RWtT0gK_6EfZT336f62EI5U.jpg?imwidth=450',
-    fullness: 33,
-    favPose: 'Balasana',
+    id: 'goat5',
+    name: 'Ricky',
+    disposition: 'light-hearted',
+    imageUrl: 'https://cdn.pixabay.com/photo/2018/05/19/03/26/goat-3412678__340.jpg',
+    fullness: 50,
+    favPose: 'the alabaster twist',
     isFainting: false,
-    color:'brown' 
-  },
-  {
-    id:'goat5',
-    name:'Vince',
-    disposition: 'rude', 
-    imageUrl:'https://mediadc.brightspotcdn.com/dims4/default/61e086c/2147483647/strip/true/crop/1060x600+0+0/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F5b%2Feb%2Fe0f9008444b3885c55e746b6eee4%2Fistock-834732994.jpg',
-    fullness: 98,
-    favPose: 'Lotus',
-    isFainting: false,
-    color:'multi-colored' 
+    color: 'tan',
   }
-];
+  ];
 
-export default goats;
+  export default goats;
