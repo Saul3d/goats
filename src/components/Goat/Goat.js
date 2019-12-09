@@ -10,6 +10,7 @@ class Goat extends React.Component {
   }
   render(){
     const { goat } = this.props;
+    
     return (
       <div className="Goat col-3">
       <div className="card">
